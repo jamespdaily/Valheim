@@ -1,2 +1,4 @@
 // List admin players ID  ONE per line
+
+// Me 
 76561197960442180
